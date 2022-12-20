@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahamud Hasan</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif">
 
 <h3 align="left">Connect with me:</h3>
