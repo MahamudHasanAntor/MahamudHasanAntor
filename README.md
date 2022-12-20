@@ -21,8 +21,8 @@
 
 ### 📈 Stats
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MahamudHasanAntor&show_icons=true&locale=en&theme=dracula" alt="MahamudHasanAntor"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MahamudHasanAntor&show_icons=true&locale=en&theme=dracula" alt="MahamudHasanAntor" width="50%"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamudHasanAntor&layout=compact&theme=dracula" width="50%"/></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudhasanantor&how_icons=true&locale=en&theme=dracula" alt="MahamudHasanAntor"/></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudhasanantor&how_icons=true&locale=en&theme=dracula" alt="MahamudHasanAntor" width="50%"/></p>
 
