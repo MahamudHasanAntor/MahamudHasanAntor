@@ -22,3 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahamudhasanantor&show_icons=true&locale=en" alt="mahamudhasanantor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudhasanantor&" alt="mahamudhasanantor" /></p>
+
+### 📈 Stats
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MahamudHasanAntor&show_icons=true&locale=en&theme=dracula" alt="MahamudHasanAntor"/></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamudHasanAntor&layout=compact&theme=dracula"/></p>
