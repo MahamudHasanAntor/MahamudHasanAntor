@@ -19,8 +19,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahamudhasanantor&" alt="mahamudhasanantor" /></p>
-
 ### 📈 Stats
 <br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MahamudHasanAntor&show_icons=true&locale=en&theme=dracula" alt="MahamudHasanAntor"/></p>
