@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/ConsiderateSandyDanishswedishfarmdog-max-1mb.gif)](https://mahamudhasanantor.github.io)
+[![MasterHead](https://camo.githubusercontent.com/)](https://mahamudhasanantor.github.io)
 <h1 align="center">Hi 👋, I'm Mahamud Hasan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
