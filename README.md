@@ -19,9 +19,9 @@
 
 
 
-### 📈 Stats:
-<br>
+
 <h3 align="left">📈 Stats:</h3>
+<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MahamudHasanAntor&show_icons=true&locale=en&theme=dracula" alt="MahamudHasanAntor" width="50%"/></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahamudHasanAntor&layout=compact&theme=dracula" width="50%"/></p>
